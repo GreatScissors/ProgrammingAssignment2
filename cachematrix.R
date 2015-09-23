@@ -1,5 +1,6 @@
 ## Caching the Inverse of a Matrix
-## Program follows and alters "Caching the Mean of a Vector" with similar functions
+## Program follows and alters "Caching the Mean of a Vector" from the R programming section
+## of Courserea Data Science by John Hopkins University with similar functions
 
 
 ## creates four functions within a function
